@@ -1,0 +1,36 @@
+id,iso2,country,capital,region_value,continents,longitude,latitude,income_level,lending_type,area,population
+ABW,AW,Aruba,Oranjestad,Latin America & Caribbean ,North America,-70.0167,12.5167,High income,Not classified,180.0,106766
+AFG,AF,Afghanistan,Kabul,"Middle East, North Africa, Afghanistan & Pakistan",Asia,69.1761,34.5228,Low income,IDA,652230.0,40218234
+AGO,AO,Angola,Luanda,Sub-Saharan Africa ,Africa,13.242,-8.81155,Lower middle income,IBRD,1246700.0,32866268
+ALB,AL,Albania,Tirane,Europe & Central Asia,Europe,19.8172,41.3317,Upper middle income,IBRD,28748.0,2837743
+AND,AD,Andorra,Andorra la Vella,Europe & Central Asia,Europe,1.5218,42.5075,High income,Not classified,468.0,77265
+ARE,AE,United Arab Emirates,Abu Dhabi,"Middle East, North Africa, Afghanistan & Pakistan",Asia,54.3705,24.4764,High income,Not classified,83600.0,9890400
+ARG,AR,Argentina,Buenos Aires,Latin America & Caribbean ,South America,-58.4173,-34.6118,Upper middle income,IBRD,2780400.0,45376763
+ARM,AM,Armenia,Yerevan,Europe & Central Asia,Asia,44.509,40.1596,Upper middle income,IBRD,29743.0,2963234
+ASM,AS,American Samoa,Pago Pago,East Asia & Pacific,Oceania,-170.691,-14.2846,High income,Not classified,199.0,55197
+ATG,AG,Antigua and Barbuda,Saint John's,Latin America & Caribbean ,North America,-61.8456,17.1175,High income,IBRD,442.0,97928
+AUS,AU,Australia,Canberra,East Asia & Pacific,Oceania,149.129,-35.282,High income,Not classified,7692024.0,25687041
+AUT,AT,Austria,Vienna,Europe & Central Asia,Europe,16.3798,48.2201,High income,Not classified,83871.0,8917205
+AZE,AZ,Azerbaijan,Baku,Europe & Central Asia,Asia,49.8932,40.3834,Upper middle income,IBRD,86600.0,10110116
+BDI,BI,Burundi,Bujumbura,Sub-Saharan Africa ,Africa,29.3639,-3.3784,Low income,IDA,27834.0,11890781
+BEL,BE,Belgium,Brussels,Europe & Central Asia,Europe,4.36761,50.8371,High income,Not classified,30528.0,11555997
+BEN,BJ,Benin,Porto-Novo,Sub-Saharan Africa ,Africa,2.6323,6.4779,Lower middle income,IDA,112622.0,12123198
+BFA,BF,Burkina Faso,Ouagadougou,Sub-Saharan Africa ,Africa,-1.53395,12.3605,Low income,IDA,272967.0,20903278
+BGD,BD,Bangladesh,Dhaka,South Asia,Asia,90.4113,23.7055,Lower middle income,IDA,147570.0,164689383
+BGR,BG,Bulgaria,Sofia,Europe & Central Asia,Europe,23.3238,42.7105,High income,IBRD,110879.0,6927288
+BHR,BH,Bahrain,Manama,"Middle East, North Africa, Afghanistan & Pakistan",Asia,50.5354,26.1921,High income,Not classified,765.0,1701583
+BHS,BS,"Bahamas, The",Nassau,Latin America & Caribbean ,North America,-77.339,25.0661,High income,Not classified,13943.0,393248
+BIH,BA,Bosnia and Herzegovina,Sarajevo,Europe & Central Asia,Europe,18.4214,43.8607,Upper middle income,IBRD,51209.0,3280815
+BLR,BY,Belarus,Minsk,Europe & Central Asia,Europe,27.5766,53.9678,Upper middle income,IBRD,207600.0,9398861
+BLZ,BZ,Belize,Belmopan,Latin America & Caribbean ,North America,-88.7713,17.2534,Upper middle income,Blend,22966.0,397621
+BMU,BM,Bermuda,Hamilton,North America,North America,-64.706,32.3293,High income,Not classified,54.0,63903
+BOL,BO,Bolivia,La Paz,Latin America & Caribbean ,South America,-66.1936,-13.9908,Lower middle income,IBRD,1098581.0,11673029
+BRA,BR,Brazil,Brasilia,Latin America & Caribbean ,South America,-47.9292,-15.7801,Upper middle income,IBRD,8515767.0,212559409
+BRB,BB,Barbados,Bridgetown,Latin America & Caribbean ,North America,-59.6105,13.0935,High income,IBRD,430.0,287371
+BRN,BN,Brunei Darussalam,Bandar Seri Begawan,East Asia & Pacific,Asia,114.946,4.94199,High income,Not classified,5765.0,437483
+BTN,BT,Bhutan,Thimphu,South Asia,Asia,89.6177,27.5768,Lower middle income,IDA,38394.0,771612
+BWA,BW,Botswana,Gaborone,Sub-Saharan Africa ,Africa,25.9201,-24.6544,Upper middle income,IBRD,582000.0,2351625
+CAF,CF,Central African Republic,Bangui,Sub-Saharan Africa ,Africa,21.6407,5.63056,Low income,IDA,622984.0,4829764
+CAN,CA,Canada,Ottawa,North America,North America,-75.6919,45.4215,High income,Not classified,9984670.0,38005238
+CHE,CH,Switzerland,Bern,Europe & Central Asia,Europe,7.44821,46.948,High income,Not classified,41284.0,8654622
+CHL,CL,Chile,Santiago,Latin America & Caribbean ,South America,-70.6475,-33.475,High income,IBRD,756102.0,19116209

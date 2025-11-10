@@ -1,0 +1,51 @@
+id,iso2Code,name,capitalCity,longitude,latitude,region.id,region.iso2code,region.value,adminregion.id,adminregion.iso2code,adminregion.value,incomeLevel.id,incomeLevel.iso2code,incomeLevel.value,lendingType.id,lendingType.iso2code,lendingType.value
+ABW,AW,Aruba,Oranjestad,-70.0167,12.5167,LCN,ZJ,Latin America & Caribbean ,,,,HIC,XD,High income,LNX,XX,Not classified
+AFE,ZH,Africa Eastern and Southern,,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+AFG,AF,Afghanistan,Kabul,69.1761,34.5228,MEA,ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MNA,XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",LIC,XM,Low income,IDX,XI,IDA
+AFR,A9,Africa,,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+AFW,ZI,Africa Western and Central,,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+AGO,AO,Angola,Luanda,13.242,-8.81155,SSF,ZG,Sub-Saharan Africa ,SSA,ZF,Sub-Saharan Africa (excluding high income),LMC,XN,Lower middle income,IBD,XF,IBRD
+ALB,AL,Albania,Tirane,19.8172,41.3317,ECS,Z7,Europe & Central Asia,ECA,7E,Europe & Central Asia (excluding high income),UMC,XT,Upper middle income,IBD,XF,IBRD
+AND,AD,Andorra,Andorra la Vella,1.5218,42.5075,ECS,Z7,Europe & Central Asia,,,,HIC,XD,High income,LNX,XX,Not classified
+ARB,1A,Arab World,,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+ARE,AE,United Arab Emirates,Abu Dhabi,54.3705,24.4764,MEA,ZQ,"Middle East, North Africa, Afghanistan & Pakistan",,,,HIC,XD,High income,LNX,XX,Not classified
+ARG,AR,Argentina,Buenos Aires,-58.4173,-34.6118,LCN,ZJ,Latin America & Caribbean ,LAC,XJ,Latin America & Caribbean (excluding high income),UMC,XT,Upper middle income,IBD,XF,IBRD
+ARM,AM,Armenia,Yerevan,44.509,40.1596,ECS,Z7,Europe & Central Asia,ECA,7E,Europe & Central Asia (excluding high income),UMC,XT,Upper middle income,IBD,XF,IBRD
+ASM,AS,American Samoa,Pago Pago,-170.691,-14.2846,EAS,Z4,East Asia & Pacific,,,,HIC,XD,High income,LNX,XX,Not classified
+ATG,AG,Antigua and Barbuda,Saint John's,-61.8456,17.1175,LCN,ZJ,Latin America & Caribbean ,,,,HIC,XD,High income,IBD,XF,IBRD
+AUS,AU,Australia,Canberra,149.129,-35.282,EAS,Z4,East Asia & Pacific,,,,HIC,XD,High income,LNX,XX,Not classified
+AUT,AT,Austria,Vienna,16.3798,48.2201,ECS,Z7,Europe & Central Asia,,,,HIC,XD,High income,LNX,XX,Not classified
+AZE,AZ,Azerbaijan,Baku,49.8932,40.3834,ECS,Z7,Europe & Central Asia,ECA,7E,Europe & Central Asia (excluding high income),UMC,XT,Upper middle income,IBD,XF,IBRD
+BDI,BI,Burundi,Bujumbura,29.3639,-3.3784,SSF,ZG,Sub-Saharan Africa ,SSA,ZF,Sub-Saharan Africa (excluding high income),LIC,XM,Low income,IDX,XI,IDA
+BEA,B4,East Asia & Pacific (IBRD-only countries),,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+BEC,B7,Europe & Central Asia (IBRD-only countries),,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+BEL,BE,Belgium,Brussels,4.36761,50.8371,ECS,Z7,Europe & Central Asia,,,,HIC,XD,High income,LNX,XX,Not classified
+BEN,BJ,Benin,Porto-Novo,2.6323,6.4779,SSF,ZG,Sub-Saharan Africa ,SSA,ZF,Sub-Saharan Africa (excluding high income),LMC,XN,Lower middle income,IDX,XI,IDA
+BFA,BF,Burkina Faso,Ouagadougou,-1.53395,12.3605,SSF,ZG,Sub-Saharan Africa ,SSA,ZF,Sub-Saharan Africa (excluding high income),LIC,XM,Low income,IDX,XI,IDA
+BGD,BD,Bangladesh,Dhaka,90.4113,23.7055,SAS,8S,South Asia,SAS,8S,South Asia,LMC,XN,Lower middle income,IDX,XI,IDA
+BGR,BG,Bulgaria,Sofia,23.3238,42.7105,ECS,Z7,Europe & Central Asia,,,,HIC,XD,High income,IBD,XF,IBRD
+BHI,B1,IBRD countries classified as high income,,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+BHR,BH,Bahrain,Manama,50.5354,26.1921,MEA,ZQ,"Middle East, North Africa, Afghanistan & Pakistan",,,,HIC,XD,High income,LNX,XX,Not classified
+BHS,BS,"Bahamas, The",Nassau,-77.339,25.0661,LCN,ZJ,Latin America & Caribbean ,,,,HIC,XD,High income,LNX,XX,Not classified
+BIH,BA,Bosnia and Herzegovina,Sarajevo,18.4214,43.8607,ECS,Z7,Europe & Central Asia,ECA,7E,Europe & Central Asia (excluding high income),UMC,XT,Upper middle income,IBD,XF,IBRD
+BLA,B2,Latin America & the Caribbean (IBRD-only countries),,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+BLR,BY,Belarus,Minsk,27.5766,53.9678,ECS,Z7,Europe & Central Asia,ECA,7E,Europe & Central Asia (excluding high income),UMC,XT,Upper middle income,IBD,XF,IBRD
+BLZ,BZ,Belize,Belmopan,-88.7713,17.2534,LCN,ZJ,Latin America & Caribbean ,LAC,XJ,Latin America & Caribbean (excluding high income),UMC,XT,Upper middle income,IDB,XH,Blend
+BMN,B3,"Middle East, North Africa, Afghanistan & Pakistan (IBRD only)",,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+BMU,BM,Bermuda,Hamilton,-64.706,32.3293,NAC,XU,North America,,,,HIC,XD,High income,LNX,XX,Not classified
+BOL,BO,Bolivia,La Paz,-66.1936,-13.9908,LCN,ZJ,Latin America & Caribbean ,LAC,XJ,Latin America & Caribbean (excluding high income),LMC,XN,Lower middle income,IBD,XF,IBRD
+BRA,BR,Brazil,Brasilia,-47.9292,-15.7801,LCN,ZJ,Latin America & Caribbean ,LAC,XJ,Latin America & Caribbean (excluding high income),UMC,XT,Upper middle income,IBD,XF,IBRD
+BRB,BB,Barbados,Bridgetown,-59.6105,13.0935,LCN,ZJ,Latin America & Caribbean ,,,,HIC,XD,High income,IBD,XF,IBRD
+BRN,BN,Brunei Darussalam,Bandar Seri Begawan,114.946,4.94199,EAS,Z4,East Asia & Pacific,,,,HIC,XD,High income,LNX,XX,Not classified
+BSS,B6,Sub-Saharan Africa (IBRD-only countries),,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+BTN,BT,Bhutan,Thimphu,89.6177,27.5768,SAS,8S,South Asia,SAS,8S,South Asia,LMC,XN,Lower middle income,IDX,XI,IDA
+BWA,BW,Botswana,Gaborone,25.9201,-24.6544,SSF,ZG,Sub-Saharan Africa ,SSA,ZF,Sub-Saharan Africa (excluding high income),UMC,XT,Upper middle income,IBD,XF,IBRD
+CAA,C9,Sub-Saharan Africa (IFC classification),,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+CAF,CF,Central African Republic,Bangui,21.6407,5.63056,SSF,ZG,Sub-Saharan Africa ,SSA,ZF,Sub-Saharan Africa (excluding high income),LIC,XM,Low income,IDX,XI,IDA
+CAN,CA,Canada,Ottawa,-75.6919,45.4215,NAC,XU,North America,,,,HIC,XD,High income,LNX,XX,Not classified
+CEA,C4,East Asia and the Pacific (IFC classification),,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+CEB,B8,Central Europe and the Baltics,,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+CEU,C5,Europe and Central Asia (IFC classification),,,,NA,NA,Aggregates,,,,NA,NA,Aggregates,,,Aggregates
+CHE,CH,Switzerland,Bern,7.44821,46.948,ECS,Z7,Europe & Central Asia,,,,HIC,XD,High income,LNX,XX,Not classified
+CHI,JG,Channel Islands,,,,ECS,Z7,Europe & Central Asia,,,,HIC,XD,High income,LNX,XX,Not classified
+CHL,CL,Chile,Santiago,-70.6475,-33.475,LCN,ZJ,Latin America & Caribbean ,,,,HIC,XD,High income,IBD,XF,IBRD
